@@ -36,6 +36,8 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 ![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg )
 ![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg)
 
+### Demo
+
 ## Go-to market stratergy
 To have a competitive advantage while integrating seamlessly with online shopping in Krisshop, having an all software product with little or no external support is crucial. 
 
