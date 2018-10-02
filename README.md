@@ -24,8 +24,6 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 - SITA
 
 ### Application Screenshot
-'''
-
 
 ### Demo
 
