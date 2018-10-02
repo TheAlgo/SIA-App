@@ -35,7 +35,6 @@ Building Two apps one for the consumer which will be then integrated into KrisSh
 ![8](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot8.jpeg )
 ![9](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot9.jpeg )
 ![10](https://github.com/TheAlgo/SIA-App/blob/master/Screenshot10.jpeg)
-<iframe height="300" width="515" src="app%20demo%20video.mp4"> </iframe>
 
 ### Demo
 
